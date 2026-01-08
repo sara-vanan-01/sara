@@ -1,0 +1,6 @@
+location = "abc"
+name = "abc"
+account_replication_type = "LRS"
+account_tier = "Standard"
+sa_location = "abc"
+sa_name = "teststorage123"
