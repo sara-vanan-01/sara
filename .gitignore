@@ -2,3 +2,7 @@
 *.zip
 *.tar.gz
 *.exe
+.terraform/
+*.zip
+*.tar.gz
+*.exe
